@@ -1,0 +1,30 @@
+#new {
+    padding-bottom: 20px;
+}
+
+#new-content {
+    background-color: #fff;
+    padding: 25px;
+    border: 2px solid #f3f1f1;
+    border-radius: 5px;
+}
+
+#new-content h3 {
+    text-align: center;
+}
+
+#new-content label {
+    font-weight: 600;
+}
+
+#new-content span {
+    margin-top: 5px;
+    font-size: 13px;
+    color: #dc3545;
+    font-weight: 600;
+}
+
+.botao button {
+    margin: 0 auto !important;
+    margin-right: 10px !important;
+}
