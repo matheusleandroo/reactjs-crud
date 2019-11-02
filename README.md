@@ -49,6 +49,6 @@ Now you can use from your browser "**ReactJS CRUD**".
 
 <h3>License</h3>
 
-This project is licensed under the MIT License - see the <a href="https://github.com/matheusleandroo/rocketseat-starter-es6/blob/master/LICENSE">LICENSE.md</a> file for details.
+This project is licensed under the MIT License - see the <a href="https://github.com/matheusleandroo/reactjs-crud/blob/master/LICENSE">LICENSE.md</a> file for details.
 
 Based on <a href="https://rocketseat.com.br/starter">Starter Rocketseat</a> :rocket:
