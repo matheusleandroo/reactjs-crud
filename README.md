@@ -28,9 +28,9 @@ You must have the <a href="https://github.com/matheusleandroo/nodejs-crud">NodeJ
 
 After clone repository, go to folder and follow this steps:
 
-- Run **`yarn`** to install dependencies;
 - Create a file **.env** based on the file **`.env.example`**;
 - Put your credentials inside **`.env`**;
+- Run **`yarn`** to install dependencies;
 - Run **`yarn start`** to start de aplication.
 
 Now you can use from your browser "**ReactJS CRUD**".
